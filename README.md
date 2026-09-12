@@ -17,7 +17,7 @@ My name is Mikhail, I'm 16 years old. I'm studying at VVSU ITHUB as a frontend d
 
 ---
 ## 🛠️ Additional Skills 
-   - Python
+   - Python - OOP level
    - C# — Entry level
    - Luau - Fundamental
    - Js - Beginner
