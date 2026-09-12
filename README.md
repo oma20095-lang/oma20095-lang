@@ -21,7 +21,8 @@ My name is Mikhail, I'm 16 years old. I'm studying at VVSU ITHUB as a frontend d
    - C# — Entry level
    - Luau - Fundamental
    - Js - Beginner
-
+   - Html - Beginner
+   - Css - Beginner
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
