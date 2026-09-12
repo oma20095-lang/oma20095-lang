@@ -12,7 +12,7 @@
 
 ## 📝 About Me
 
-My name is Mikhail, I'm 16 years old. I'm studying at VVSU ITHUB as a frontend developer. I'm passionate about programming, building web interfaces, and game development.
+My name is Michael, I'm 16 years old. I'm studying at VVSU ITHUB as a frontend developer. I'm passionate about programming, building web interfaces, and game development.
 
 
 ---
